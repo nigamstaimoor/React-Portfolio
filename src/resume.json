@@ -1,0 +1,177 @@
+{
+  "basics": {
+    "name": "Taimoor Ahmed",
+    "label": "Front End developer",
+    "picture": "images/cover10.webp",
+    "x_pictureFallback": "images/b.webp",
+    "x_title": "Hey There! Glad you're here",
+    "summary": "FResh Graduate with bachelor degree in Software Engineering. I’m interested in Front end and web development , all sorts of Frameworks and developing front-end and some back-end applications.",
+    "location": {
+      "country": "Pakistan",
+      "countryCode": "PK",
+      "region": "Rawalpindi"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "nigamstamioor",
+        "url": "https://www.twitter.com/nigamstaimoor",
+        "x_icon": "fab fa-2x fa-twitter"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "nigamstamioor",
+        "url": "https://www.linkedin.com/in/nigamstaimoor",
+        "x_icon": "fab fa-2x fa-linkedin"
+      },
+      {
+        "network": "GitHub",
+        "username": "nigamstaimoor",
+        "url": "https://github.com/nigamstiamoor",
+        "x_icon": "fab fa-2x fa-github"
+      }
+    ]
+  },
+  "work": [
+  
+    {
+      "company": "Fiverr",
+      "position": "Front End Developer",
+      "website": "www.fiverr.com",
+      "startDate": "2020-05-25",
+      "endDate": "Still working",
+      "summary": "Join Fiverr to learn ore skill by doing different projects",
+      "highlights": []
+    },
+    {
+      "company": "Upwork",
+      "position": "Front End Developer",
+      "website": "www.upwork.com",
+      "startDate": "2019-12-25",
+      "endDate": "Still Working",
+      "summary": "Join Upwork to learn ore skill by doing different projects",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Comsats University Islamabad",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "03-02-2016",
+      "endDate": "25-01-2020",
+      "courses": [
+        "Object Oriented Programming",
+        "Database Management Systems",
+        "Operating systems and computers architectures",
+        "Requirements Engineering",
+        " .etc"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Advanced",
+      "keywords": ["Front End Developer"]
+    },
+    {
+      "name": "CSS",
+      "level": "Advanced",
+      "keywords": ["Front End Developer"]
+    },
+    {
+      "name": "ES6",
+      "level": "Intermediate",
+      "keywords": ["Front End Developer"]
+    },
+    {
+      "name": "ReactJS",
+      "level": "Intermediate",
+      "keywords": ["Front End Developer"]
+    },
+    {
+      "name": "React Native",
+      "level": "Basic",
+      "keywords": ["Front End Developer"]
+    },
+    {
+      "name": "Redux",
+      "level": "Intermediate",
+      "keywords": ["Front End Developer"]
+    },
+    {
+      "name": "Material UI",
+      "level": "Intermediate",
+      "keywords": ["Front End Developer"]
+    },
+    {
+      "name": "Ant Design",
+      "level": "Basic",
+      "keywords": ["Front End Developer"]
+    },
+    {
+      "name": "Object Oriented Programming",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Design Patterns",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "REST API",
+      "level": "Basic",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Unit Testing",
+      "level": "Basic",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Basic",
+      "keywords": ["Software Developer"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "Urdu",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Punjabi",
+      "fluency": "Fluent speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Table Tennis",
+      "x_icon": "fa-globe-africa"
+    },
+    {
+      "name": "Series Lover",
+      "x_icon": "fa-dog"
+    },
+    {
+      "name": "Foodie",
+      "x_icon": "fa-utensils"
+    }
+  ]
+}
