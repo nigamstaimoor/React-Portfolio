@@ -12,6 +12,7 @@ html {
     background-image: url('../images/cover10.webp'), url('../images/cover10.JPG');
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-position: center;
     background-size: cover;
 }
 .bulma-image {
